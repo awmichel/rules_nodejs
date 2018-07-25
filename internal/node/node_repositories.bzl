@@ -45,6 +45,8 @@ NODE_REPOSITORIES = {
 
 # Dictionary mapping Yarn versions to their correspoding (filename, strip_prefix, sha256) tuples.
 YARN_REPOSITORIES = {
+  "1.9.2": ("yarn-v1.9.2.tar.gz", "yarn-v1.9.2", "3ad69cc7f68159a562c676e21998eb21b44138cae7e8fe0749a7d620cf940204"),
+  "1.7.0": ("yarn-v1.7.0.tar.gz", "yarn-v1.7.0", "e7720ee346b2bd7ec32b7e04517643c38648f5022c7981168321ba1636f2dca3"),
   "1.6.0": ("yarn-v1.6.0.tar.gz", "yarn-v1.6.0", "a57b2fdb2bfeeb083d45a883bc29af94d5e83a21c25f3fc001c295938e988509"),
   "1.5.1": ("yarn-v1.5.1.tar.gz", "yarn-v1.5.1", "cd31657232cf48d57fdbff55f38bfa058d2fb4950450bd34af72dac796af4de1"),
   "1.3.2": ("yarn-v1.3.2.tar.gz", "yarn-v1.3.2", "6cfe82e530ef0837212f13e45c1565ba53f5199eec2527b85ecbcd88bf26821d"),

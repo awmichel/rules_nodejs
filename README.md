@@ -68,6 +68,8 @@ Currently these versions are:
 You can also choose a specific version of Yarn.
 Currently these versions are:
 
+* 1.9.2
+* 1.7.0
 * 1.6.0
 * 1.5.1
 * 1.3.2
